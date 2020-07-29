@@ -1,0 +1,39 @@
+.about-me {
+    margin: 12.5% auto;
+    padding: 30px;
+    background-color: #ADCADE;
+}
+
+.about-picture {
+    width: 38%;
+    float: left;
+    margin-right: 1em;
+    clear: both;
+}
+
+@media screen and (max-width : 992px){
+    .about-me {
+        margin-right: 5%;
+        margin-left: 5%;
+    }
+    
+    .about-picture {
+        width: 57%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .about-picture {
+        width: 57%;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .about-me {
+        margin-right: 5%;
+        margin-left: 5%;
+    }
+    .about-picture {
+        width: 67%;
+    }
+}

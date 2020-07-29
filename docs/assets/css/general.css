@@ -1,0 +1,44 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    background-image: url("../images/background.png");
+}
+
+.navbar {
+    padding-top: .5em;
+    padding-bottom: .5em;
+    padding-left: 1em;
+}
+
+.navbar-brand {
+    font-weight: bolder;
+    font-size: 25px;
+    color: #ADCADE;
+}
+
+.nav-link {
+    font-size: 20px;
+}
+
+.footer {
+    background-color: #363F45;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    color: #ADCADE;
+    padding: .5em;
+    border: .25em solid #2D4B5E;
+    border-right: none;
+    border-left: none;
+    border-bottom: none;
+}
