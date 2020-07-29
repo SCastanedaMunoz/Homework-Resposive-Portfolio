@@ -1,0 +1,18 @@
+.contact-me {
+    margin: 10% auto 12.5% auto;
+    padding: 30px;
+    background-color: #ADCADE;
+}
+
+.submit-btn {
+    background-color: #2D4B5E;
+    color: #ADCADE;
+    padding: 10px 15px;
+}
+
+@media screen and (max-width : 992px){
+    .contact-me {
+        margin-right: 5%;
+        margin-left: 5%;
+    }
+}
