@@ -1,5 +1,13 @@
 .my-portfolio {
-    margin: 7.5% auto 12.5% auto;
+    margin: 5% auto 12.5% auto;
     padding: 30px;
     background-color: #ADCADE;
+}
+
+@media screen and (max-width : 992px){
+    .my-portfolio {
+        margin-right: 2.5%;
+        margin-left: 2.5%;
+        margin-bottom: 20%;
+    }
 }

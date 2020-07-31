@@ -28,6 +28,15 @@ body {
     font-size: 20px;
 }
 
+.img-fluid {
+    border: 1em ridge #486A8C;
+}
+
+.social-icon {
+    width: 40px;
+    padding: -1em;
+}
+
 .footer {
     background-color: #363F45;
     position: fixed;
