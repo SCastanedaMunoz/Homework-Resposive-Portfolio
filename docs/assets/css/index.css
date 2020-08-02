@@ -15,14 +15,9 @@
     .about-me {
         margin-right: 5%;
         margin-left: 5%;
+        margin-bottom: 25%;
     }
     
-    .about-picture {
-        width: 57%;
-    }
-}
-
-@media screen and (max-width: 768px) {
     .about-picture {
         width: 57%;
     }
